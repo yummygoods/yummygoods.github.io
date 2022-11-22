@@ -46,4 +46,5 @@ a:visited {
 hr.rounded {
   border:4px solid rgb(255, 186, 231);
   border-radius: 5px;
+  border-collapse: collapse;
 }
