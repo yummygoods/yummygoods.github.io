@@ -1,0 +1,49 @@
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+  font-family:'Courier New', Courier, monospace;
+  margin-left:3rem;
+  margin-right: 6rem;
+
+}
+.container{
+align-content: center;
+}
+
+.subtle{
+  font-size: 75%;
+  color: pink;
+}
+
+.divider{
+  font-size: 50%;
+}
+#tagline{
+  font-weight: bold;
+}
+
+.soon{
+  font-style: oblique;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+  font-size: 85%;
+  color: orange;
+}
+.links{
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+font-size: 2rem;
+  color: orange;
+ padding-top: .5rem;
+ align-content: center;
+
+
+}
+
+a:visited {
+  color: orange;
+}
+
+hr.rounded {
+  border:4px solid rgb(255, 186, 231);
+  border-radius: 5px;
+}
