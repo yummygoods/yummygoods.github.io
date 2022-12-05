@@ -4,16 +4,17 @@ body{
   justify-content: center; 
   font-family:'Courier New', Courier, monospace;
   margin-left:3rem;
-  margin-right: 6rem;
+  margin-right: 3rem;
 
 }
 .container{
 align-content: center;
+justify-content: center;
 }
 
 .subtle{
-  font-size: 75%;
-  color: pink;
+ 
+  color: rgb(252, 159, 229);
 }
 
 .divider{
@@ -39,6 +40,9 @@ font-size: 2rem;
 
 }
 
+#p1{
+  font-size: 2rem;
+}
 a:visited {
   color: orange;
 }
@@ -48,4 +52,17 @@ hr.rounded {
   border-radius: 5px;
   border-collapse: collapse;
   background-color: rgb(255 186 231);
+}
+
+.headshot {
+ max-width: 200px;
+ height: auto;
+}
+
+#intro{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width:75%
+  
 }
