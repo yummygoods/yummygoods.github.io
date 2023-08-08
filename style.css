@@ -16,6 +16,10 @@ justify-content: center;
  
   color: rgb(252, 159, 229);
 }
+.kindaSubtle{
+ 
+  color: rgb(150, 43, 123);
+}
 
 .divider{
   font-size: 50%;
@@ -66,3 +70,14 @@ hr.rounded {
   width:75%
   
 }
+
+.bold {
+  font-weight: bold;
+
+}
+
+  ul {
+    list-style-type: disc;
+    line-height: 1.35;
+    font-weight: bold;
+  }
